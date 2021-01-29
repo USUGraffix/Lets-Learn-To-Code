@@ -2,4 +2,4 @@
 
 
 
-# Think of this as your syllabus for the best class of your life!
+Think of this as your syllabus for the best class of your life!
