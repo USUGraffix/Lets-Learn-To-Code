@@ -9,12 +9,16 @@
 ## HTML is the structure of every website! Think of it as the container for all the awesome stuff you are going to put in your website.
 
 ### what you'll learn:
-    -The different HTML tags
+    -The different basic HTML tags
+    -Advanced tags like audio and video
     -What each one does
     -How to use them
     -How to structure a web page
     -how to view your web page in browser
     -Using alt tags for accessability
+    -Links tags
+    -Head tags
+    -meta tags
 
 
 
@@ -24,6 +28,7 @@
 ## CSS is what makes your website look good! This is your websites personality!
 
 ### what you'll learn:
+    -id and class
     -How to position items on your website
         -Flex box
         -Css Grid
@@ -31,7 +36,10 @@
     -Fonts Fonts Fonts
     -Hovers
     -Animations
+    -Transitions
     -Responsiveness
+    -Specificity
+
    
 
 
