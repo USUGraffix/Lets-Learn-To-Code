@@ -6,12 +6,16 @@
 
 ### what you'll learn:
 
-    -The different HTML tags
+    -The different basic HTML tags
+    -Advanced tags like audio and video
     -What each one does
     -How to use them
     -How to structure a web page
     -how to view your web page in browser
     -Using alt tags for accessability
+    -Links tags
+    -Head tags
+    -meta tags
 
 ```html
 <!DOCTYPE html>
@@ -56,6 +60,7 @@
 
 ### what you'll learn:
 
+    -id and class
     -How to position items on your website
         -Flex box
         -Css Grid
@@ -63,11 +68,13 @@
     -Fonts Fonts Fonts
     -Hovers
     -Animations
+    -Transitions
     -Responsiveness
+    -Specificity
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-## JavaScript is what make your website interactive. Bring your website to life, give your website legs, and let it walk up to a job recruiter and knock their socks off.
+## JavaScript is what makes your website interactive. Bring your website to life, give your website legs, and let it walk up to a job recruiter and knock their socks off.
 
 ### what you'll learn:
 
