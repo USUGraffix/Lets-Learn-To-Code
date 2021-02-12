@@ -59,5 +59,5 @@
 When you make an external CSS file, you need a way to connect to that css file with html.
 
 ```html
-<link rel="stylesheet" href="./home.css" />
+<link rel="stylesheet" href="./yourCSSfileName.css" />
 ```

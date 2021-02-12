@@ -117,6 +117,22 @@ CSS
 
 ##### Vanilla CSS
 
+Let's say you want to position text in the middle
+
+```css
+p {
+  text-align: center;
+}
+```
+
+You can also align the element in the center of the page
+
+```css
+div {
+  margin: auto 0;
+}
+```
+
 ##### Flex Box
 
 ##### CSS Grid
