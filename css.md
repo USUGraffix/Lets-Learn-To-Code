@@ -4,14 +4,39 @@
 
 ### what you'll learn:
 
-    -id and class
-    -How to position items on your website
-        -Flex box
-        -Css Grid
-    -How to give your website color
-    -Fonts Fonts Fonts
-    -Hovers
-    -Animations
-    -Transitions
-    -Responsiveness
-    -Specificity
+1. [How to give your website color](#color-website)
+2. [Fonts Fonts Fonts](#fonts)
+3. [Hovers](#hover-animations)
+4. [Transitions](#transitions)
+5. [id](#id)
+6. [class](#class)
+7. [How to position items on your website](#position-elements)
+   a. [Vanilla CSS](#vanilla-css)
+   b. [Flex box](#flex-box)
+   c. [CSS Grid](#css-grid)
+8. [Responsiveness](#responsiveness)
+9. [Specificity](#specificity)
+
+### Color Website
+
+### Fonts
+
+### Hover Animations
+
+### Transitions
+
+### id
+
+### class
+
+### Position Elements
+
+##### Vanilla CSS
+
+##### Flex Box
+
+##### CSS Grid
+
+### Responsiveness
+
+### Specificity

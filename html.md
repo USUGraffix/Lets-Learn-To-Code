@@ -4,16 +4,14 @@
 
 ### what you'll learn:
 
-    -The different basic HTML tags
-    -Advanced tags like audio and video
-    -What each one does
-    -How to use them
-    -How to structure a web page
-    -how to view your web page in browser
-    -Using alt tags for accessability
-    -Links tags
-    -Head tags
-    -meta tags
+1. [The different basic HTML tags](#popular-html-tags)
+2. [Audio and video tags](#audio-and-video-tags)
+3. [How to structure a web page](#how-to-structure-html)
+4. [How to view your web page in browser](#view-webpage)
+5. [Using alt tags for accessability](#alt-tags)
+6. [Link tag](#linking)
+7. [Head tags](#head-tag)
+8. [Meta tags](#meta-tags)
 
 ```html
 <!DOCTYPE html>
@@ -50,4 +48,12 @@
     <>
   </body>
 </html>
+```
+
+### Linking
+
+When you make an external CSS file, you need a way to connect to that css file with html.
+
+```html
+<link rel="stylesheet" href="./home.css" />
 ```
