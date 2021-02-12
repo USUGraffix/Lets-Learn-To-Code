@@ -2,6 +2,10 @@
 
 ## CSS is what makes your website look good! This is your websites personality!
 
+| [home](./README.md) | [html lesson](./html.md) | [javascript lesson](./javascript.md) |
+| ------------------- | ------------------------ | ------------------------------------ |
+
+
 ### what you'll learn:
 
 1. [How to give your website color](#color-website)

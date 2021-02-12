@@ -2,6 +2,10 @@
 
 ## HTML is the structure of every website! Think of it as the container for all the awesome stuff you are going to put in your website.
 
+| [home](./README.md) | [css lesson](./css.md) | [javascript lesson](./javascript.md) |
+| ------------------- | ---------------------- | ------------------------------------ |
+
+
 ### what you'll learn:
 
 1. [The different basic HTML tags](#popular-html-tags)
