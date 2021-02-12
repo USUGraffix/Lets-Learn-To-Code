@@ -19,15 +19,95 @@
 
 ### Color Website
 
+```css
+body {
+  background: lightgray;
+  color: black;
+}
+div {
+  background: black;
+  color: white;
+}
+```
+
 ### Fonts
+
+If you want to add different fonts to a certain element, you can use the font-family in that element name.
+
+```css
+p {
+  font-family: comic sans;
+}
+```
+
+> Note: If you want your whole site to have a font, put the font-family code snippet in your body element.
 
 ### Hover Animations
 
+A great way to add a hover effect on any element is to use the :hover on elements you're targeting
+
+```css
+div:hover {
+  background-color: yellow;
+}
+```
+
 ### Transitions
+
+Animations are great and a one way to animate with time is using`transition`
+
+```css
+button {
+  width: 100px;
+  transition: 2s;
+}
+
+button:hover {
+  width: 200px;
+}
+```
 
 ### id
 
+There are times when you need to target only `one element` and this is where `id` comes into play
+HTML
+
+```html
+<div id="idName"></div>
+```
+
+> Note: Remember to always give your id and class a purposeful name, meaning you should give your element id or class a name that explains the task of that element. i.e. formContainer
+
+CSS
+
+```css
+#idName {
+  border: 2px solid red;
+  font-family: helvetica;
+}
+```
+
 ### class
+
+Let's say you have a `bunch of elements` and not just one that you want to target
+
+```html
+<div class="className"></div>
+<div class="className"></div>
+<button class="className"></button>
+<ol class="className"></ol>
+```
+
+> Note: Remember to always give your id and class a purposeful name, meaning you should give your element id or class a name that explains the task of that element. i.e. formContainer
+
+CSS
+
+```css
+.className {
+  border: 2px solid red;
+  font-family: helvetica;
+}
+```
 
 ### Position Elements
 
