@@ -1,6 +1,6 @@
 ### Challenge 2
 
-Dang, you really want it!! Let's go! This is challenge 2 with HTML and CSS
+Dang, you really want it!! Let's go! This is challenge 2 with CSS
 
 You have 2 awesome sites that will walk you through css grid and flexbox.
 
