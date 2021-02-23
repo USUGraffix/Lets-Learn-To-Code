@@ -135,8 +135,16 @@ div {
 
 ##### Flex Box
 
+We will be using a great game made to learn!
+[flexbox froggy](https://flexboxfroggy.com/)
+
 ##### CSS Grid
+
+We will be using a great game made to learn!
+[css grid garden](https://cssgridgarden.com/)
 
 ### Responsiveness
 
 ### Specificity
+
+We may have to skip going in depth with this for now
