@@ -9,3 +9,6 @@ This is your first challenge
 
 Second challenge
 [CSS Grid & Flexbox](./challenge2.md)
+
+Third challenge
+[Recreate a landing page](./challenge3.md)
